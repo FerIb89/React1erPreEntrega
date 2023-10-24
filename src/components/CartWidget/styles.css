@@ -1,0 +1,27 @@
+.conteiner-carrito
+{
+    display: flex;
+    margin-top:75px;
+    margin-right: 10px;
+    background-color: rgba(202, 236, 51, 0.945);
+    border: 2px solid rgba(255, 17, 0, 0.486);
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    width: 45px;
+    height: 40px; 
+    font-size: 30px;
+}
+
+.cartWidget
+{
+    display: flex;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    margin-top: 17px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 16px;
+}

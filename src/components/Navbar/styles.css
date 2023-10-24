@@ -1,0 +1,45 @@
+
+.navbar-container
+{
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-end;
+    flex-direction:row;
+    background: rgb(240,205,190);
+    background: linear-gradient(13deg, rgba(240,205,190,1) 0%, rgba(9,121,99,0.933193260214242) 12%, rgba(255,145,0,0.8127450809425333) 100%); 
+}
+
+.list-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:end;
+    align-items: start;
+    list-style: none;
+    margin-top: 0px;
+    background-color:rgba(252, 160, 48, 0.329) 
+}
+
+.li
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: rgb(192, 73, 4);
+    background-color: rgb(224, 189, 165);
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+    font-weight: bolder;
+    border:2px solid rgb(245, 148, 148);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.logo-ofiMuebles
+{
+    margin-left: 30px;
+}
